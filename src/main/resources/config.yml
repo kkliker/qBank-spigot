@@ -1,0 +1,8 @@
+issuer:
+  enable: true
+  override: "&kSecret"
+note:
+  material: PAPER
+  name: "&aNote &l{value}$"
+  lore:
+    - "&eIssuer: &l{issuer}"

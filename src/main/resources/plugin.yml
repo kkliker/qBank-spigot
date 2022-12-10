@@ -1,0 +1,16 @@
+name: qBank
+main: ru.qship.BankNotes
+version: 0.1
+api-version: 1.19
+depend: [Vault,PlaceholderAPI,NBTAPI]
+commands:
+  withdraw:
+    usage: /withdraw <amount>
+    description: Withdraw funds
+  deposit:
+    usage: /deposit
+    description: Deposit Bank Note in hand
+  banknotes:
+    usage: /banknotes <reload/give>
+    description: Admin Commands
+  3414fsafsg54ewdsf:

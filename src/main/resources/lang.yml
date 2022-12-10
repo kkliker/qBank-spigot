@@ -1,0 +1,23 @@
+COMMAND:
+  NO:
+    PERMISSION: "&cYou do not have permission for that command"
+PLAYER:
+  ONLY:
+    COMMAND: "This command is only available to players"
+ADMIN:
+  RELOAD: "&aSuccessfully Reloaded"
+  PLAYER:
+    NOTFOUND: "&cPlayer &l{player} &cnot found"
+INVALID:
+  ARGUMENTS: "&cInvalid arguments"
+  AMOUNT: "&cInvalid amount"
+DEPOSIT:
+  SUCCESS: "&aSuccessfully deposited &l{value}$"
+  INVALID:
+    NOTE: "&cInvalid note item"
+WITHDRAW:
+  SUCCESS: "&aSuccessfully withdrawn &l{value}$"
+UNKNOWN:
+  ERROR: "&cAn unknown error has happened"
+INSUFFICIENT:
+  FUNDS: "&cInsufficient funds"

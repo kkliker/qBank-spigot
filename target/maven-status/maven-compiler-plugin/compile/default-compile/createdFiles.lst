@@ -1,0 +1,13 @@
+ru\qship\BankNotes.class
+ru\qship\commands\WithdrawCmd.class
+ru\qship\commands\DepositCmd.class
+ru\qship\event\NoteEvent.class
+ru\qship\util\NoteManager.class
+ru\qship\event\Interact.class
+ru\qship\event\NoteEvent$NoteEventType.class
+ru\qship\util\Permission.class
+ru\qship\commands\GuiCMD.class
+ru\qship\util\Lang$ModifiableLang.class
+ru\qship\commands\BankNotesCmd.class
+ru\qship\util\Lang.class
+ru\qship\Note.class
